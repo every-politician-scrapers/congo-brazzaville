@@ -1,0 +1,12 @@
+{
+    "jurisdiction": {
+        "name": "Congo-Brazzaville",
+        "id": "Q971"
+    },
+    "cabinet": {
+        "parent": "Q3112600"
+    },
+    "source": {
+        "id":   "Q96743901"
+    }
+}
