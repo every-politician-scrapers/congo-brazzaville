@@ -1,5 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q10353660,President of the Republic of the Congo,Q971,Q971,,Q878300,1959-11-21,,,,
+Q49001219,Vice President of the Republic of the Congo,Q971,,,,1960,1979,,,Vice President of the Republic of the Congo
 Q30101451,Prime Minister of the Republic of the Congo,Q971,Q971,,Q932245,,,,,
+Q112315782,Minister of Culture and Arts,Q971,Q971,,,,,,,
 Q98966140,Health minister of the Republic of the Congo,Q971,Q971,,,,,,,
 Q18204385,Minister of Foreign Affairs of the Republic of Congo,Q971,Q971,,,,,,,Minister of Foreign Affairs (Republic of the Congo)
