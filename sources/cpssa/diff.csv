@@ -1,11 +1,10 @@
 @@,item,itemlabel,position,positionlabel,startdate,enddate
 ---,Q4752077,Anatole Collinet Makosso,Q30101451,Prime Minister of the Republic of the Congo,2021-05-12,
-->,Q58135,Basile Ikouébé,Q18204385,Minister of Foreign Affairs of the Republic of Congo->Foreign Affairs and Francophonie,2007-05-31,2015-08-10->2015-08-11
-->,Q23928873,Clément Mouamba,Q30101451,Prime Minister of the Republic of the Congo->Prime Minister,2016-04-23->2016-04-30,2021-05-12
-->,Q57418,Denis Sassou-Nguesso,Q10353660,President of the Republic of the Congo->Head of State,1997-10-25->1999-01-13,
-->,Q5493295,François Ibovi,Q98966140,Health minister of the Republic of the Congo->Health and Population,2012-09-25,2016-05-06->2016-04-30
-->,Q17076721,Georges Moyen,Q98966140,Health minister of the Republic of the Congo->Health and Population,2009-09-15,2012-09-25
+->,Q58135,Basile Ikouébé,Q18204385,Foreign Affairs and Francophonie,2007-05-31,2015-08-10->2015-08-11
+->,Q23928873,Clément Mouamba,Q30101451,Prime Minister,2016-04-23->2016-04-30,2021-05-12
+->,Q57418,Denis Sassou-Nguesso,Q10353660,Head of State,1997-10-25->1999-01-13,
+->,Q5493295,François Ibovi,Q98966140,Health and Population,2012-09-25,2016-05-06->2016-04-30
 +++,Q57890,Isidore Mvouba,Q30101451,Prime Minister and Minister of Privatisation,2007-03-03,2009-09-15
 +++,Q57890,Isidore Mvouba,Q30101451,Prime Minister and Minister of Privatisation and Transport ,2005-01-07,2007-03-03
 ---,Q57890,Isidore Mvouba,Q30101451,Prime Minister of the Republic of the Congo,2005-01-07,2009-09-15
-->,Q15046890,Jean-Claude Gakosso,Q18204385,Minister of Foreign Affairs of the Republic of Congo->Foreign Affairs and Cooperation,2015-08-10->2015-08-11,
+->,Q15046890,Jean-Claude Gakosso,Q18204385,Foreign Affairs and Cooperation,2015-08-10->2015-08-11,
