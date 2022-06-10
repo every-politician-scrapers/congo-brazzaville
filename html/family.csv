@@ -1,7 +1,18 @@
 id,name,relationship,relative,relativename
+Q26237842,Ingrid Ebouka-Babackas,father,Q26221001,Édouard Ebouka-Babackas
+Q26254130,Arlette Soudan-Nonault,father,Q6169940,Jean-Pierre Nonault
+Q26254130,Arlette Soudan-Nonault,spouse,Q27431367,François Soudan
+Q26689539,Jean-Marc Thystère-Tchicaya,father,Q3169789,Jean-Pierre Thystère Tchicaya
 Q3121597,Guy Brice Parfait Kolélas,father,Q767085,Bernard Kolélas
 Q3121597,Guy Brice Parfait Kolélas,sibling,Q5409443,Euloge Landry Kolélas
+Q3386379,Pierre Moussa,child,Q20817355,Fatima Beyina-Moussa
+Q4686987,Adélaïde Moundélé-Ngollo,spouse,Q48245918,Benoît Moundélé-Ngollo
+Q4686987,Adélaïde Moundélé-Ngollo,spouse,Q964762,Ange Diawara
+Q5082018,Charles Richard Mondjo,father,Q106957372,Nicolas Mondjo
+Q5409443,Euloge Landry Kolélas,father,Q767085,Bernard Kolélas
+Q5409443,Euloge Landry Kolélas,sibling,Q3121597,Guy Brice Parfait Kolélas
 Q5493295,François Ibovi,sibling,Q16730014,Jean-Claude Ibovi
 Q57418,Denis Sassou-Nguesso,child,Q273791,Edith Lucie Bongo
 Q57418,Denis Sassou-Nguesso,child,Q3022596,Denis-Christel Sassou Nguesso
 Q57418,Denis Sassou-Nguesso,spouse,Q58491100,Antoinette Sassou Nguesso
+Q6169352,Jean-Jacques Bouya,relative,Q57418,Denis Sassou-Nguesso
