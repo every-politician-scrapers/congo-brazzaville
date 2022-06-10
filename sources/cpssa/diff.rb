@@ -5,9 +5,6 @@ require 'every_politician_scraper/comparison'
 require 'pry'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
-  def external
-    super.delete_if { |row| row[:start] == row[:end] }
-  end
 end
 
 diff = Comparison.new('wikidata.csv', 'scraped.csv').diff

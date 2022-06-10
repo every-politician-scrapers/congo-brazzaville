@@ -1,4 +1,4 @@
-item,name,positionItem,position,start,end
+item,itemLabel,position,positionLabel,startDate,endDate
 Q4697192,Aime Emmanuel Yoka,Q112320688,Justice and Human Rights,2007-03-03,2016-04-30
 Q50379869,Aimé Ange Wilfrid Bininga,Q112320658,Civil Service,2016-04-30,2017-08-22
 Q50379869,Aimé Ange Wilfrid Bininga,Q112320688,"Justice, Human Rights and Promotion of Indigenous Peoples",2017-08-22,
@@ -7,17 +7,17 @@ Q4705620,Alain Akouala Atipault,Q112320661,Communications and Relations with the
 Q4705620,Alain Akouala Atipault,Q112320711,Special Economic Zones,2009-09-15,2015-08-11
 Q4705620,Alain Akouala Atipault,Q112320711,Special Economic Zones,2016-04-30,2017-08-22
 Q4705682,Alain Moka,Q98966140,Health and Population,2002-08-18,2005-01-07
-,Alphonse Gando,Q98966140,Health and Population,2005-01-07,2007-03-03
-,Alphonse Mbama,Q112320681,Industrial Development,1999-01-13,2002-08-18
+Q112321240,Alphonse Gando,Q98966140,Health and Population,2005-01-07,2007-03-03
+Q112321242,Alphonse Mbama,Q112320681,Industrial Development,1999-01-13,2002-08-18
 Q4752077,Anatole Collinet Makosso,Q112320657,Civic Education and Youth,2011-08-17,2015-08-11
 Q4752077,Anatole Collinet Makosso,Q112320669,"Primary and Secondary Education, Civic Education, and Youth",2015-08-11,
-,Andre Okombi Salissan,Q112320657,"Civic Education, Sports, Vocational and Technical Education, and Youth",1999-01-13,2002-08-18
-,Andre Okombi Salissan,Q112320689,"Labour, Employment, and Social Security",2002-08-18,2005-01-07
-,Andre Okombi Salissan,Q112320723,Transport and Civil Aviation,2005-01-07,2007-03-03
-,Andre Okombi Salissan,Q112320720,Tourism and Environment,2007-03-03,2009-09-15
-,Andre Okombi Salissan,Q112320669,Technical Education and Professional Training,2009-09-15,2012-09-25
+Q112321245,Andre Okombi Salissan,Q112320657,"Civic Education, Sports, Vocational and Technical Education, and Youth",1999-01-13,2002-08-18
+Q112321245,Andre Okombi Salissan,Q112320689,"Labour, Employment, and Social Security",2002-08-18,2005-01-07
+Q112321245,Andre Okombi Salissan,Q112320723,Transport and Civil Aviation,2005-01-07,2007-03-03
+Q112321245,Andre Okombi Salissan,Q112320720,Tourism and Environment,2007-03-03,2009-09-15
+Q112321245,Andre Okombi Salissan,Q112320669,Technical Education and Professional Training,2009-09-15,2012-09-25
 Q59262052,André Raphaël Loemba,Q112320678,Hydrocarbons,2009-09-15,2015-08-11
-,Ange Antoine Abena,Q112320677,Higher Education,2009-09-15,2012-09-25
+Q112321246,Ange Antoine Abena,Q112320677,Higher Education,2009-09-15,2012-09-25
 Q61415246,Antoinette Dinga-Dzondo,Q112320708,"Social Affairs, Humanitarian action, and Solidarity",2016-04-30,
 Q26254130,Arlette Soudan-Nonault,Q112320720,Tourism,2016-04-30,2017-08-22
 Q26254130,Arlette Soudan-Nonault,Q112320720,Tourism and Environment,2017-08-22,
@@ -30,7 +30,7 @@ Q4979263,Bruno Jean-Richard Itoua,Q112320703,Scientific Research,2011-12-13,2016
 Q4979263,Bruno Jean-Richard Itoua,Q112320677,Higher Education,2016-04-30,
 Q24150698,Calixte Nganongo,Q112320673,"Finance, Budget and Public Portfolio",2016-04-30,2017-08-22
 Q24150698,Calixte Nganongo,Q112320673,Finance and Budget,2017-08-22,
-,Catherine Embondza,Q112320727,Promotion of Women,2012-09-25,2016-04-30
+Q112321247,Catherine Embondza,Q112320727,Promotion of Women,2012-09-25,2016-04-30
 Q5082018,Charles Richard Mondjo,Q112320695,National Defence,2012-09-25,
 Q2960478,Charles Zacharie Bowao,Q112320664,"Cooperation, Humanitarian action, and Solidarity",2007-03-03,2009-09-15
 Q2960478,Charles Zacharie Bowao,Q112320695,National Defence,2009-09-15,2012-09-25
@@ -42,8 +42,8 @@ Q17111062,Dambert Ndouane,Q112320689,Labour and Social Security,1999-01-13,2002-
 Q57418,Denis Sassou-Nguesso,Q10353660,Head of State,1999-01-13,
 Q48778190,Destinée Doukaga,Q112320657,Civic Education and Youth,2016-04-30,
 Q59676765,Dieudonné Moyongo,Q112315782,Culture and Arts,2017-08-22,
-,Emile Mabonzot,Q112320681,"Industrial Development, Small and Medium Enterprises and Handicrafts",2002-08-18,2005-01-07
-,Emile Mabonzot,Q112320681,Industrial Development and Promotion of the Private Sector,2005-01-07,2009-09-15
+Q112321248,Emile Mabonzot,Q112320681,"Industrial Development, Small and Medium Enterprises and Handicrafts",2002-08-18,2005-01-07
+Q112321248,Emile Mabonzot,Q112320681,Industrial Development and Promotion of the Private Sector,2005-01-07,2009-09-15
 Q24147892,Emile Ouosso,Q112320723,Transport and Civil Aviation,2007-03-03,2009-09-15
 Q24147892,Emile Ouosso,Q112320672,Equipment and Public Works,2009-09-15,2016-04-30
 Q24147892,Emile Ouosso,Q112320689,Labour and Social Security,2016-04-30,2017-08-22
@@ -62,11 +62,11 @@ Q5460873,Florent Ntsiba,Q112320731,Minister without Portfolio,2017-08-22,
 Q5493295,François Ibovi,Q112320661,Communications and Government Spokesman,1997-11-03,2002-08-18
 Q5493295,François Ibovi,Q112320719,Territory Administration and Decentralization,2002-08-18,2007-12-30
 Q5493295,François Ibovi,Q98966140,Health and Population,2012-09-25,2016-04-30
-,Fulmin Ayessa,Q112320655,Minister at the Presidency,1999-01-13,2002-08-18
+Q112321249,Fulmin Ayessa,Q112320655,Minister at the Presidency,1999-01-13,2002-08-18
 Q5515608,Gabriel Entcha-Ebia,Q112320658,Civil Service and State Reform,2002-08-18,2005-01-07
 Q5515608,Gabriel Entcha-Ebia,Q112320688,Justice and Human Rights,2005-01-07,2007-03-03
 Q5515608,Gabriel Entcha-Ebia,Q112320698,"Posts and Telecommunications, and New Communication Technologies",2007-03-03,2007-12-30
-,Gabriel Longombe,Q112320731,Minister without Portfolio,2002-08-18,2005-01-07
+Q112321250,Gabriel Longombe,Q112320731,Minister without Portfolio,2002-08-18,2005-01-07
 Q17076721,Georges Moyen,Q98966140,Health and Population,2009-09-15,2012-09-25
 Q17076721,Georges Moyen,Q112320677,Higher Education,2012-09-25,2016-04-30
 Q5625984,Gerard Bitsindou,Q112320714,State Control,1997-11-03,2002-08-18
@@ -106,7 +106,7 @@ Q57890,Isidore Mvouba,Q30101451,Prime Minister and Minister of Privatisation and
 Q57890,Isidore Mvouba,Q30101451,Prime Minister and Minister of Privatisation,2007-03-03,2009-09-15
 Q57890,Isidore Mvouba,Q112320723,"Transport, Civil Aviation and the Merchant Navy",2009-09-15,2012-09-25
 Q57890,Isidore Mvouba,Q112320681,Industrial Development and Promotion of the Private Sector,2012-09-25,2016-04-30
-,Itihi Lekounzou Ossetoumba ,Q112320665,Defence,1999-01-13,2002-08-18
+Q112321251,Itihi Lekounzou Ossetoumba,Q112320665,Defence,1999-01-13,2002-08-18
 Q24175564,Jacqueline Lydia Mikolo,Q98966140,Health and Population,2016-04-30,2017-08-22
 Q24175564,Jacqueline Lydia Mikolo,Q98966140,"Health, Population, Promotion of Women and Integration of Women in Development",2017-08-22,
 Q24880625,Jacques Yvon Ndolou,Q112320665,Defence,2002-08-18,2005-01-07
@@ -119,7 +119,7 @@ Q1541759,Jean-Baptiste Tati Loutard,Q112320678,Hydrocarbons,1997-11-03,2009-09-1
 Q15046890,Jean-Claude Gakosso,Q112315782,"Culture, Arts, in charge of Tourism",2002-08-18,2007-03-03
 Q15046890,Jean-Claude Gakosso,Q112315782,Culture and Arts,2007-03-03,2015-08-11
 Q15046890,Jean-Claude Gakosso,Q18204385,Foreign Affairs and Cooperation,2015-08-11,
-,Jean-Felix Demba Delo,Q112320698,Posts and Telecommunications,1997-11-03,2005-01-07
+Q112321252,Jean-Felix Demba Delo,Q112320698,Posts and Telecommunications,1997-11-03,2005-01-07
 Q26689539,Jean-Marc Thystère Tchicaya,Q112320678,Hydrocarbons,2015-08-11,
 Q6169656,Jean-Marie Tassoua,Q112320671,Energy and Water Resources,1997-11-03,2002-08-18
 Q6172056,Jeanne Dambendzet,Q112320658,"Civil Service, Administrative Reform and Women Promotion",1999-01-13,2002-08-18
@@ -127,7 +127,7 @@ Q6172056,Jeanne Dambendzet,Q112320656,"Agriculture, Livestock, Fisheries, and Wo
 Q6172056,Jeanne Dambendzet,Q112320656,"Agriculture, Livestock, Fisheries",2005-01-07,2007-03-03
 Q6172056,Jeanne Dambendzet,Q112320656,Agriculture and Livestock,2007-03-03,2007-12-30
 Q6172056,Jeanne Dambendzet,Q112320660,"Commerce, Consumption, and Supplies",2007-12-30,2009-09-15
-,Jeanne Francoise Lekomba,Q112320727,Promotion of Women,2005-01-07,2011-08-17
+Q112321253,Jeanne Francoise Lekomba,Q112320727,Promotion of Women,2005-01-07,2011-08-17
 Q55807584,Josué Rodrigue Ngouonimba,Q112320720,Tourism and Environment,2012-09-25,2016-04-30
 Q55807584,Josué Rodrigue Ngouonimba,Q112320672,Equipment and Road Maintenance,2016-04-30,2017-08-22
 Q55807584,Josué Rodrigue Ngouonimba,Q112320662,"Construction, Town Planning and Housing",2017-08-22,
@@ -136,31 +136,31 @@ Q6317336,Justin Ballay Megot,Q112320664,Cooperation and Development,2005-01-07,2
 Q6317336,Justin Ballay Megot,Q112320701,Regional Integration and NEPAD,2007-03-03,2009-09-15
 Q6482763,Lamyr Nguele,Q112320653,"Minister Delegate in the Ministry of Construction, Town Planning, Housing, and Land Reform in Charge of Land Reform",2002-08-18,2005-01-07
 Q6482763,Lamyr Nguele,Q112320690,Land Reform,2005-01-07,2009-09-15
-,Louis-Marie Nombo Mavoungou,Q112320691,Maritime Economy and Merchant Navy,2005-01-07,2007-12-30
+Q112321254,Louis-Marie Nombo Mavoungou,Q112320691,Maritime Economy and Merchant Navy,2005-01-07,2007-12-30
 Q40770924,Léon Juste Ibombo,Q112320698,Posts and Telecommunications,2016-04-30,
 Q25695110,Léon Raphaël Mokoko,Q112320696,Planning and Integration,2015-08-11,2016-04-30
 Q6711024,Léon-Alfred Opimbat,Q98966140,"Health, Solidarity and Humanitarian Action",1999-01-13,2002-08-18
 Q6711024,Léon-Alfred Opimbat,Q112320713,Sports,2011-08-17,2017-08-22
 Q24158913,Léonidas Mottom,Q112315782,Culture and Arts,2016-04-30,2017-08-22
-,Madeleine Yila Boumpoto,Q112320727,Promotion of Women,2011-08-17,2012-09-25
-,Mambou Elie Niamy,Q112315782,"Culture, Arts, in charge of Tourism",1999-01-13,2002-08-18
-,Marcel Mbani,Q112320728,Youth and Sports,2002-08-18,2007-12-30
+Q112321255,Madeleine Yila Boumpoto,Q112320727,Promotion of Women,2011-08-17,2012-09-25
+Q112321257,Mambou Elie Niamy,Q112315782,"Culture, Arts, in charge of Tourism",1999-01-13,2002-08-18
+Q112321258,Marcel Mbani,Q112320728,Youth and Sports,2002-08-18,2007-12-30
 Q3295525,Martin Mberi,Q112320699,Reconstruction and Urban Development,1999-01-13,2001-05-09
 Q3295579,Martin Parfait Aimé Coussoud-Mavoungou,Q112320711,Special Economic Zones,2015-08-11,2016-04-30
 Q3295579,Martin Parfait Aimé Coussoud-Mavoungou,Q112320690,Land Affairs,2016-04-30,2017-08-22
 Q3295579,Martin Parfait Aimé Coussoud-Mavoungou,Q112320703,Scientific Research,2017-08-22,
 Q6787108,Mathias Dzon,Q112320673,Finance and Budget,1997-11-03,2002-08-18
 Q6774710,Mathieu Martial Kani,Q112320720,Tourism,2009-09-15,2012-09-25
-,Michel Mampoya,Q112320684,Industry and Environment,1999-01-13,2002-08-18
+Q112321259,Michel Mampoya,Q112320684,Industry and Environment,1999-01-13,2002-08-18
 Q57464277,Nicéphore Fylla de Saint-Eudes,Q112320669,Technical Education and Professional Training,2016-04-30,
-,Nkoua Celestin Gongara,Q112320656,Agriculture and Livestock,1997-11-03,2002-08-18
+Q112321260,Nkoua Celestin Gongara,Q112320656,Agriculture and Livestock,1997-11-03,2002-08-18
 Q7122834,Pacifique Issoibeka,Q112320668,"Economy, Finance, and Budget",2005-01-07,2009-09-15
 Q3295579,Parfait Aimé Coussoud-Mavoungou,Q112320707,Small and Medium Enterprises and Handicrafts,2005-01-07,2007-12-30
 Q3295579,Parfait Aimé Coussoud-Mavoungou,Q112320691,Maritime Economy and Merchant Navy,2007-12-30,2009-09-15
-,Paul Mbot,Q112320705,Security and Public Order,2005-01-07,2009-09-15
-,Philippe Mvouo,Q112320693,"Mines, Energy, and Hydraulics",2002-08-18,2005-01-07
-,Philippe Mvouo,Q112320698,Posts and Telecommunications,2005-01-07,2007-03-03
-,Philippe Mvouo,Q112320674,Fishing,2007-03-03,2007-12-30
+Q112321261,Paul Mbot,Q112320705,Security and Public Order,2005-01-07,2009-09-15
+Q112321262,Philippe Mvouo,Q112320693,"Mines, Energy, and Hydraulics",2002-08-18,2005-01-07
+Q112321262,Philippe Mvouo,Q112320698,Posts and Telecommunications,2005-01-07,2007-03-03
+Q112321262,Philippe Mvouo,Q112320674,Fishing,2007-03-03,2007-12-30
 Q7192163,Pierre Damien Boussoukou Boumba,Q112320722,"Trade and Supply, Small and Medium Enterprises in charge of Handicrafts",1999-01-13,2002-08-18
 Q7191981,Pierre Ernest Abandzounou,Q112320703,Scientific Research and Technical Innovation,2005-01-07,2007-12-30
 Q7192339,Pierre Mabiala,Q112320690,Land Affairs,2009-09-15,2016-04-30
@@ -177,22 +177,22 @@ Q3383396,Pierre-Michel Nguimbi,Q112320669,Technical Education and Professional T
 Q7299001,Raymond Zéphirin Mboulou,Q112320719,Territory Administration and Decentralization,2007-12-30,2016-04-30
 Q7299001,Raymond Zéphirin Mboulou,Q112320686,"Interior, Decentralization, and Local Development",2016-04-30,2017-08-22
 Q7299001,Raymond Zéphirin Mboulou,Q112320686,Interior and Decentralization,2017-08-22,
-,Rigobert Maboundou,Q112320656,Agriculture and Livestock,2007-12-30,2016-04-30
+Q112321264,Rigobert Maboundou,Q112320656,Agriculture and Livestock,2007-12-30,2016-04-30
 Q3438286,Rodolphe Adada,Q18204385,Foreign Affairs and Cooperation,1997-11-03,2007-03-03
 Q3438286,Rodolphe Adada,Q18204385,Foreign Affairs and Francophonie,2007-03-03,2007-05-31
 Q3438286,Rodolphe Adada,Q112320681,Industrial Development and Promotion of the Private Sector,2009-09-15,2012-09-25
 Q3438286,Rodolphe Adada,Q112320723,"Transport, Civil Aviation and the Merchant Navy",2012-09-25,2016-04-30
 Q23900401,Roger Rigobert Andely,Q112320668,"Economy, Finance, and Budget",2002-08-18,2005-01-07
-,Rosalie Kama Niamayoua,Q112320669,Primary and Secondary Education in Charge of Literacy,2002-08-18,2012-09-25
+Q112321265,Rosalie Kama Niamayoua,Q112320669,Primary and Secondary Education in Charge of Literacy,2002-08-18,2012-09-25
 Q24176158,Rosalie Matondo,Q112320715,Sustainable Development and Forest Economy,2016-04-30,2017-08-22
 Q24176158,Rosalie Matondo,Q112320675,Forest Economy,2017-08-22,
 Q26266432,Serge Blaise Zoniaba,Q112320669,Technical Education and Professional Training,2012-09-25,2016-04-30
 Q26266432,Serge Blaise Zoniaba,Q112320671,Energy and Hydraulics,2016-04-30,
-,Serge Michel Odzocki,Q112320728,Youth and Sports,2007-12-30,2009-09-15
-,Simon Mfoutou,Q112320714,State Control,2002-08-18,2005-01-07
+Q112321266,Serge Michel Odzocki,Q112320728,Youth and Sports,2007-12-30,2009-09-15
+Q112321267,Simon Mfoutou,Q112320714,State Control,2002-08-18,2005-01-07
 Q19819308,Thierry Lézin Moungalla,Q112320698,"Posts and Telecommunications, and New Communication Technologies",2007-12-30,2015-08-11
 Q19819308,Thierry Lézin Moungalla,Q112320661,"Communications, Media, and Relations with the Parliament",2015-08-11,
-,Thomas Dello,Q112320644,Government Secretary General,2002-08-18,2005-01-07
+Q112321268,Thomas Dello,Q112320644,Government Secretary General,2002-08-18,2005-01-07
 Q4686987,Yvonne-Adélaïde Moundélé-Ngollo,Q112320660,"Commerce, Consumption, and Supplies",2002-08-18,2007-12-30
 Q4686987,Yvonne-Adélaïde Moundélé-Ngollo,Q112320707,Small and Medium Enterprises and Handicrafts,2007-12-30,
-,Zacharie Kimpomi,Q112320657,Civic Education and Youth,2009-09-15,2011-08-17
+Q112321269,Zacharie Kimpomi,Q112320657,Civic Education and Youth,2009-09-15,2011-08-17
