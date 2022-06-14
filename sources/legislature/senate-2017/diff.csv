@@ -1,67 +1,19 @@
 @@,itemlabel,partylabel,item,psid
-+++,Agathe Mankongou Kamango,PCT,,
-+++,Alphonse Boudo Neza,PCT,,
-+++,Alphonse Gondzia,PCT,,
-+++,Alphonse Nkoua,Indépendant,,
-+++,Anasthasie Batchieleli Moudoma,Front Patriotique,,
-+++,André Longuele,PCT,,
-+++,André Ongagna,PCT,,
-+++,Ange Edouard Poungui,UPADS,,
-+++,Antoine Banvindi,Club 2002-PUR,,
-+++,Antoine Denis Loemba,MAR,,
-+++,Antonin Molamou,PCT,,
-+++,Aristide Ngama Ngakosso,PCT,,
-+++,Athanase Makoundi Makaya,Indépendant,,
-+++,Barthélémy Nzaba Bakala,PCT,,
-+++,Bernard Mbatchi,RDPS,,
-+++,Boniface Bouka,PCT,,
-+++,Charlotte Olondowé,PCT,,
-+++,Christine Ngomoka Diokivouka,PCT,,
-+++,Clobert Ibinda,Indépendant,,
-+++,Daniel Abibi,PCT.,,
-+++,Dhadie Yedikissa,UPADS,,
-+++,Dominique Aloka,PCT,,
-+++,Euloge Henri Rock Ondziel-Onna,PRL,,
-+++,Gabriel Oba Apounou,PCT,,
-+++,Gabriel Ondongo,PCT,,
-+++,Gabriel Zambila,PCT,,
-+++,Gaspard Kaya Magane,Indépendant,,
-+++,Gaston Eyabo,PCT,,
-+++,Georges Métoul,PCT,,
-+++,Jacqueline Moundzalo,PCT,,
-+++,Jean Nicolas Moungalla,Indépendant,,
-+++,Jean Rodrigue Mvouma,PCT,,
-+++,Jean Roger Ekoundzola,PCT,,
-+++,Jean Serge Kentoula,PCT,,
-+++,Jean-Félix Tchikaya,RDPS,,
-+++,Jean-Marie Epouma Andzimba,Indépendant,,
-+++,Jean-Marie Opembé,Indépendant,,
-+++,Jean-Pierre Nonault,PCT,,
-+++,Jeanne Françoise Leckomba Loumeto,PCT,,
-+++,Joséphine Mountou Bayonne,PCT,,
-+++,Julien Epola,PCT,,
-+++,Justin Goma Gabou,Indépendant,,
-+++,Ludovic Robert Miyouna,Pulp,,
-+++,Madame Ngotto née Jeanne Emilie Bilongo,PCT,,
-+++,Marie Rosine Dongo,PCT,,
-+++,Marie Thérèse Bouvet,PCT,,
-+++,Martin Nicaise Makosso,Indépendant,,
-+++,Maurice Mbella,PCT,,
-+++,Michel Mayinga,PCT,,
-+++,Michel Robert Makaya,Indépendant,,
-+++,Mme Lékoundzou née Kengué Emilienne Charlotte,PCT,,
-+++,Mme Ondaye née Bernadette Ntsona Mapessi,PCT,,
-+++,Norbert Mbou,PCT,,
-+++,Odette Massoussa,PCT,,
-+++,Paul Stanislas Nguié,PCT,,
-+++,Pauline Ikourou Yoka,PCT,,
-+++,Pierre Ngolo,PCT,,
-+++,Pierre Nzely Massanga Izoungou,MAR,,
-+++,Ralco Mouanda Kitsinga,Indépendant,,
-+++,Raymond Bongo Mavoungou,PCT,,
-+++,Roger Edouard Okoula,PCT,,
-+++,Sylver Makaya Tchibinda,Indépendant,,
-+++,Sébastien Seba,PCT,,
-+++,Théophile Adoua,PCT,,
-+++,Victoire Ngolingo,PCT,,
-+++,Victor Foudi,PCT,,
+->,Alphonse Nkoua,SÉ->Indépendant,Q112570889,Q112570889-D1AD64FC-586B-46B5-88BE-05FE8DFA210A
+->,Anasthasie Batchieleli Moudoma,NULL->Front Patriotique,Q112570890,Q112570890-4D57F151-D10F-4584-B1D3-695A94E792E9
+->,Antoine Banvindi,NULL->Club 2002-PUR,Q112570894,Q112570894-6CD2EB35-0B0C-4C70-AF0A-BE3D4AB647E6
+->,Antoine Denis Loemba,NULL->MAR,Q112570895,Q112570895-7EB8BAAF-6213-4006-BA14-BC3BB355A88B
+->,Athanase Makoundi Makaya,SÉ->Indépendant,Q112570898,Q112570898-630B10F3-5A70-4A51-B394-0B596062DB98
+->,Clobert Ibinda,SÉ->Indépendant,Q112570904,Q112570904-88C12119-40BE-45E0-8CFB-4126FD7FA562
+->,Euloge Henri Rock Ondziel-Onna,NULL->PRL,Q112570906,Q112570906-EA2D3A63-7E14-46A4-BF13-55B3C4108EB4
+->,Gaspard Kaya Magane,SÉ->Indépendant,Q112570909,Q112570909-E8CE60CC-6396-43A2-83E5-4435198A9928
+->,Jean Nicolas Moungalla,SÉ->Indépendant,Q112570913,Q112570913-F176BB79-7526-42D4-AC9D-179327E07F02
+->,Jean-Marie Epouma Andzimba,SÉ->Indépendant,Q112570917,Q112570917-BD04733A-9751-472E-BFF1-6208D475430E
+->,Jean-Marie Opembé,SÉ->Indépendant,Q112570918,Q112570918-D3DF2DBF-6B19-4908-BF91-716F7901E8F3
+->,Justin Goma Gabou,SÉ->Indépendant,Q112570921,Q112570921-5B0BB9CB-6B42-4770-A778-3B7A76D2D172
+->,Ludovic Robert Miyouna,NULL->Pulp,Q112570922,Q112570922-9B59891B-9C98-4A17-8697-0FCF1DC8EA69
+->,Martin Nicaise Makosso,SÉ->Indépendant,Q112570926,Q112570926-CAEB9654-3DFC-49B8-8473-DA70ACDAA73B
+->,Michel Robert Makaya,SÉ->Indépendant,Q112570929,Q112570929-6908E3C5-B35A-44B1-B7C8-71448B9E5A6C
+->,Pierre Nzely Massanga Izoungou,NULL->MAR,Q112570936,Q112570936-E176C8F0-141A-45A2-AE65-5FCB2ABE0683
+->,Ralco Mouanda Kitsinga,SÉ->Indépendant,Q112570937,Q112570937-644E5E0E-8F96-4208-AE22-7CB08112A278
+->,Sylver Makaya Tchibinda,SÉ->Indépendant,Q112570938,Q112570938-7887258B-9676-488E-8D29-828926516762
