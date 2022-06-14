@@ -12,7 +12,7 @@ module.exports = function () {
                   ?follows ?followsLabel ?followedBy ?followedByLabel
   WHERE {
     ?item p:P31 ?isa .
-    ?isa ps:P31 wd:Q15238777 ; pq:P642 wd:Q4345421 .
+    ?isa ps:P31 wd:Q15238777 ; pq:P642 wd:Q1969587 .
     OPTIONAL { ?isa pq:P1545 ?ordinal }
     OPTIONAL { ?item p:P571 [ a wikibase:BestRank ; psv:P571 [wikibase:timeValue ?inception ; wikibase:timePrecision ?inceptionPrecision] ] }
     OPTIONAL { ?item p:P580 [ a wikibase:BestRank ; psv:P580 [wikibase:timeValue ?startTime ; wikibase:timePrecision ?startTimePrecision] ] }
