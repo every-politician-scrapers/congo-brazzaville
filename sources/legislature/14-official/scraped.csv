@@ -1,285 +1,143 @@
-itemLabel,role,partyLabel,areaLabel
-BOUTI-VIAUDO Roland,deputy,MAR,Loango
-TCHIBINDA Alain,alternate,MAR,Loango
-MABIALA Alexandre,deputy,PCT,kakamoeka
-MAKASSO Fils Basile,alternate,PCT,kakamoeka
-SOUNDA Jean Aimé,deputy,RDPS,Hinda
-MAVOUNGOU Gustave,alternate,RDPS,Hinda
-TENGO Laurent,deputy,MAR,Madingo-Kayes
-MAKOSSO Serge Marvelh,alternate,MAR,Madingo-Kayes
-BATCHI Gabriel,deputy,RDPS,Nzambi
-LOUEMEBET Landry Autria Fabrice,alternate,RDPS,Nzambi
-MATOMBE Paul,deputy,Indépendant,Mvouti 1
-KOUMBA BALOLA Gaston,alternate,Indépendant,Mvouti 1
-COUSSOUD-MAVOUNGOU Martin Parfait Aimé,deputy,PCT,Mvouti 2
-LOUVOUNOU Alphonse,alternate,PCT,Mvouti 2
-N’DINGA Alexis,deputy,PCAP,Lumumba 1
-BOUITY Berthe,alternate,PCAP,Lumumba 1
-BISSOUTA MABONDA Alois Devic,deputy,PCT,Lumumba 2
-ONGOLY née LOUMINGOU Géneviève,alternate,PCT,Lumumba 2
-MAVOUNGOU Maurice,deputy,MAR,Lumumba 3
-BELI Victor,alternate,MAR,Lumumba 3
-THYSTERE TCHIKAYA Jean Marc,deputy,RDPS,Mvou - Mvou 1
-BONGO Emilon Patrick,alternate,RDPS,Mvou - Mvou 1
-TCHIGNOUMBA MBOUMBA Gilbert Paul,deputy,PCT,Mvou - Mvou 2
-NGUIMBY DE MOUSSYTH KINGA Patrick,alternate,PCT,Mvou - Mvou 2
-NKODIA KYND Gaétan,deputy,PCT,Tié - tié 1
-MBOUNGOU Goolfred Florent,alternate,PCT,Tié - tié 1
-BAYENDISSA Brice Dimitri,deputy,PCT,Tié - tié 2
-MBOUNGOU MBOUNGOU Raymond,alternate,PCT,Tié - tié 2
-KABA VELE née MPAN Suzanne,deputy,PCT,Loandjili 1
-MAKOSSO Anatole Collinet,alternate,PCT,Loandjili 1
-MAMONA Ferdinand,deputy,PCT,Loandili 2
-MIOKO Germain,alternate,PCT,Loandili 2
-FOLLO Isaac Raymond,deputy,PCT,Ngoyo
-PAKA BANTHOUD Genest Wilfrid,alternate,PCT,Ngoyo
-KANDO Jean François,deputy,PCT,Mongo - Mpoukou
-OKANDZA Fernand,alternate,PCT,Mongo - Mpoukou
-MAKOSSO Christian Ernest,deputy,PCT,Tchiamba - Nzassi
-PAMBOU DADET Daniast,alternate,PCT,Tchiamba - Nzassi
-LISSOUBA Jeremih Sylvain,deputy,UPADS,Dolisie 1
-NZAOU Féicien Dieudonné,alternate,UPADS,Dolisie 1
-SAYI Honoré,deputy,UPADS,Dolisie 2
-KAYA MVOULA Brice,alternate,UPADS,Dolisie 2
-KOUMBA Justin,deputy,PCT,Banda
-BINISSA François,alternate,PCT,Banda
-NKOUNKA MANANGA YOGO Marianne,deputy,PCT,Divenié
-NZOUMINI DITADI,alternate,PCT,Divenié
-ZAMBA Bienvenu Victor,deputy,UPADS,Kibangou
-IBOUANGA Jean Pierre,alternate,UPADS,Kibangou
-MOUANDA Jean Jacques,deputy,PCT,Kimongo
-MAYANITH NGOMA,alternate,PCT,Kimongo
-NGOULA Antoine,deputy,PCT,Londéla - Kayes
-GOMA Antoine,alternate,PCT,Londéla - Kayes
-MAVOUNGOU Jean Antoine,deputy,PCT,Louvakou
-BATANGOUNA MOUNDA Bienvenu,alternate,PCT,Louvakou
-MABIALA Pierre,deputy,PCT,Makabana
-NTSAMBVA Léon,alternate,PCT,Makabana
-LEYINDA Pascal Alain,deputy,UPADS,Mayoko
-MBOUKOULOU Lucien,alternate,UPADS,Mayoko
-MOUANDZA Pierre,deputy,DRD,Mbinda
-OBANGA Jean Fabrice,alternate,DRD,Mbinda
-BIYOT Jean Bruno,deputy,DRD,Moungoundou - Nord
-BANDANGOYI YANDOT Claude Juet,alternate,DRD,Moungoundou - Nord
-LITENGO KONGO Simon,deputy,MAR,Moungoundou - Sud
-DOUMA Boniface,alternate,MAR,Moungoundou - Sud
-NDOUNA François,deputy,Indépendant,Mossendjo 1
-BIRANGUE Aloise,alternate,Indépendant,Mossendjo 1
-TSOUMOU Yves,deputy,Indépendant,Mossendjo 2
-NGOMA Isidore Séraphin,alternate,Indépendant,Mossendjo 2
-LALISSINI BIKINDOU Justice,deputy,Indépendant,Moutamba
-IBINGOU KOUASSI Gaëtan,alternate,Indépendant,Moutamba
-DOUKAGA Destinée Hermella,deputy,FP,Nyanga
-KOMBILA Michel Roger,alternate,FP,Nyanga
-MBANI Jean Valère,deputy,UMP,Yaya
-BOUBITA MBOMO,alternate,UMP,Yaya
-NDIKI MAMPAKA Christophe,deputy,Indépendant,Madingou commune
-MOUANDA Donatien,alternate,Indépendant,Madingou commune
-NGABELET Auguste,deputy,Indépendant,Madingou district
-MABIALA Alain Roger,alternate,Indépendant,Madingou district
-BATI Benoit,deputy,PCT,Tsiaki
-MANKITA Joseph,alternate,PCT,Tsiaki
-NKOUKA Jean,deputy,PCT,Kayes
-MOUHINGOU Germain,alternate,PCT,Kayes
-MBANZOULOU Eugene,deputy,PCT,Boko-Songho
-POUELA Marc Gilbert,alternate,PCT,Boko-Songho
-SYBALI Jean,deputy,PCT,Kingoué
-MANTSOUNGA Joseph,alternate,PCT,Kingoué
-N’GOMA MBOUKOU Ulriche,deputy,PCT,Yamba
-KAYA Jean,alternate,PCT,Yamba
-BIDOUNGA Alphonse,deputy,UPADS,Nkayi 1
-TOUNGOUKA Fidèle,alternate,UPADS,Nkayi 1
-DILOU NGOMA Samuel,deputy,Indépendant,Nkayi 2
-MANKOU Aimé Vincent,alternate,Indépendant,Nkayi 2
-KALLA Marcel,deputy,PCT,Mabombo
-MATOUTI Albert,alternate,PCT,Mabombo
-TSATY MABIALA Pascal,deputy,UPADS,Loudima
-MAKOUENDE Jean Didier,alternate,UPADS,Loudima
-NZOMONO Macaire,deputy,Indépendant,Mfouati
-MBOBO KITOKO Charles,alternate,Indépendant,Mfouati
-MBOUSSI NGOUARI Michel,deputy,MNLC,Mouyondzi
-BANGA Antoine,alternate,MNLC,Mouyondzi
-MOUAMBA Clément,deputy,PCT,Sibiti commune
-MBAMA Fabrice Adolphe,alternate,PCT,Sibiti commune
-KIGNOUMBI KIA MBOUNGOU Joseph,deputy,LA CHAINE,Sibiti district
-NZIMBI Norbert,alternate,LA CHAINE,Sibiti district
-TSOUMOU MOUKASSA Adrien,deputy,UPADS,Bambama
-MOUKOUIMI Albert,alternate,UPADS,Bambama
-TSIBA Jean Appolinaire,deputy,UPADS,Komono
-OYANDZA Guy Fernand,alternate,UPADS,Komono
-MOUHOUMOUNOU David Benoit,deputy,PCT,Mayéyé
-MAMPEME Jean Felix,alternate,PCT,Mayéyé
-MBANI Marcel,deputy,PCT,Zanaga
-MAMPASSI Jean Bosco,alternate,PCT,Zanaga
-FYLLA SAINT-EUDES Nicéphore Antoine,deputy,PRL,Kinkala commune
-MALONGA Jean Paul,alternate,PRL,Kinkala commune
-MENSAH née SASSOU NGUESSO,deputy,PCT,Kintélé commune
-MFIRA Pascal,alternate,PCT,Kintélé commune
-EBINA José Cyr Adélard,deputy,PCT,Ignié
-LABIMEBOU Timothé,alternate,PCT,Ignié
-MIHAMBOU Josué,deputy,CRDP,Loumo
-KOUKA Jeanne Rose,alternate,CRDP,Loumo
-PAMBOU Germaine,deputy,Indépendant,Louingui
-BASSAFOULA Emile,alternate,Indépendant,Louingui
-ONDONGO Evariste,deputy,PCT,Ngabé
-INKARI Benoit,alternate,PCT,Ngabé
-KOULOUMBOU Marie Jeanne,deputy,PCT,Boko
-BANZOULOU KANI Honorat,alternate,PCT,Boko
-NGOUONIMBA Josué Rodrigue,deputy,UFD,Djambala commune
-GANAO NGASSEBE Marc Aurèle,alternate,UFD,Djambala commune
-NGOULOU Boniface,deputy,DRD,Djambala district
-Suppléant,alternate,DRD,Djambala district
-IBOMBO Jean Pierre,deputy,PCT,Allembé
-OSSEBI Jean Christ,alternate,PCT,Allembé
-MBOULOU Raymond Zéphirin,deputy,PCT,Mpouya
-ANDAMOUI Raphael,alternate,PCT,Mpouya
-NGOUELONDELE Hugues,deputy,PCT,Gamboma 1
-ELAULT Bello Belard,alternate,PCT,Gamboma 1
-OBAM ONDON Antoine Bienaimé,deputy,PCT,Gamboma 2
-NKABA Ernestine,alternate,PCT,Gamboma 2
-MBOSSA Joseph,deputy,PCT,Abala
-EBARA Fidèle,alternate,PCT,Abala
-GALIBALI Ghyslain Millet,deputy,Indépendant,Lekana
-LIMBOULA Bruno,alternate,Indépendant,Lekana
-NGATSELE Alphonse,deputy,Indépendant,Mbon
-NGALIBO Pascal,alternate,Indépendant,Mbon
-TSALISSAN OKOMBI Digne Elvis,deputy,UMP,Ngo
-OMBO LEBARRAS Charles Timothé,alternate,UMP,Ngo
-ITOUA Bruno Jean Richard,deputy,PCT,Ollombo 1
-BOSSA Fidèle,alternate,PCT,Ollombo 1
-IBARA NDELI Felix,deputy,PCT,Ollombo 2
-KIBA Jean Paul,alternate,PCT,Ollombo 2
-ONDZE née NGAMBOLO Bernadette,deputy,PCT,Makotimpoko
-KANGA Philipe,alternate,PCT,Makotimpoko
-ONDELE jaurès,deputy,PCT,Ongogni
-MOUNDELE NGOLO EHOUROSSIA Yves,alternate,PCT,Ongogni
-SASSOU-NGUESSO Denis Christel,deputy,PCT,Oyo commune
-YOKA Justin,alternate,PCT,Oyo commune
-OMINGA Maixent Raoul,deputy,PCT,Oyo district
-IBELA Abraham,alternate,PCT,Oyo district
-NGOKANA Denis Auguste Marie,deputy,PCT,Boundji
-LEKOUNDZOU TSATSA Avanke,alternate,PCT,Boundji
-AMBETO Blaise,deputy,PCT,Ngoko
-OKONDZA Jean Fréderic,alternate,PCT,Ngoko
-AYESSA Firmin,deputy,PCT,Makoua
-YEKA Fréderic,alternate,PCT,Makoua
-IKEMOU Théodore,deputy,PCT,Ntokou
-MOUANDZA MOUYABI Francis,alternate,PCT,Ntokou
-BOUYA Jean Jacques,deputy,PCT,Tchikapika
-OMBAKA Jean Michel,alternate,PCT,Tchikapika
-MOKEMO Zacharie,deputy,PCT,Loukolela
-KESSALE Prosper,alternate,PCT,Loukolela
-MOBONDZO ENDZONGA Marien,deputy,PCT,Mossaka 1
-LEKAKA Nadège Carole,alternate,PCT,Mossaka 1
-OTOKA Oscar,deputy,PCT,Mossaka 2
-BOKAMBISSA Prudent,alternate,PCT,Mossaka 2
-BOKOUMAKA Gabriel,deputy,PCT,Bokoma
-MAFIMBA BOUYA Jean Raoul,alternate,PCT,Bokoma
-OWASSA YAUCKA Abel Jo,deputy,PCT,Owando commune
-IBARA Jean,alternate,PCT,Owando commune
-ONDONGO Gilbert,deputy,PCT,Owando district
-BONGO-SAMBY IBOMBO Louise,alternate,PCT,Owando district
-BININGA Aimé Ange Wilfrid,deputy,PCT,Ewo commune
-MFALI Maturin,alternate,PCT,Ewo commune
-ALOUMBA Alexandre,deputy,PCT,Ewo district
-EKONGO Adolphe,alternate,PCT,Ewo district
-OTSALEYOUA Saturnin,deputy,PCT,Okoyo
-OYERONDAYA Louisie,alternate,PCT,Okoyo
-MOUELE Serge Hubert,deputy,PCT,Mbama
-DASSIA Robert,alternate,PCT,Mbama
-OPIMBAT Léon Alfred,deputy,PCT,Mbomo
-POUPET Emmanuel,alternate,PCT,Mbomo
-NGANFOUOMO Charles,deputy,PCT,Etoumbi
-OMVOUELET Francis Pépin,alternate,PCT,Etoumbi
-HOBIE Thierry,deputy,PCT,Kellé
-EDJO Jean Robert,alternate,PCT,Kellé
-NDINGA MAKANDA Accel Arnaud,deputy,PCT,Ouesso 1
-EZOUNA NGUIMBI Laure Jeremih,alternate,PCT,Ouesso 1
-MOTTOM MAMONI Léonidas Carrel,deputy,PCT,Ouesso 2
-ALONTSAMI Raymond,alternate,PCT,Ouesso 2
-MBOUMA Albert,deputy,PCT,Pokola
-MONBANDJO Jean Roger Bosco,alternate,PCT,Pokola
-CHISSO Adélaïde Rufine,deputy,PCT,Pikounda
-FOUNGUI Athanase,alternate,PCT,Pikounda
-OKOUENI Michel,deputy,PCT,Kabo
-AVOUNGOU Georges,alternate,PCT,Kabo
-ZONIABA AYIMESSONE Henri,deputy,PCT,Souanké
-BEH Jean Claude,alternate,PCT,Souanké
-MINDA Pierre Christian,deputy,PCT,Mokéko
-KIBA Salomon,alternate,PCT,Mokéko
-NGOZOK MISSEKA Golfe,deputy,PCT,Ngbala
-MASSE DENGUE Rodrigue,alternate,PCT,Ngbala
-NDOUANE DAMBERT René,deputy,PCT,Sembé
-MIKILIK Athanase,alternate,PCT,Sembé
-MOKA Alain,deputy,PCT,Impfondo commune
-MANGUELE Marie Solange,alternate,PCT,Impfondo commune
-DOLAMA Virginie Euphrasie,deputy,PCT,Impfondo district
-KAMARA BANDHIOUGOU Hilley,alternate,PCT,Impfondo district
-SEKO Hyppolite,deputy,PCT,Bouanela
-DANGUIME Martial,alternate,PCT,Bouanela
-SABAYE Fernand,deputy,PCT,Bétou
-BELEMBO Auguste,alternate,PCT,Bétou
-DJOMBO Henri,deputy,PCT,Enyellé
-BANZANI Sébastien Rigobert,alternate,PCT,Enyellé
-MANIA Venance,deputy,PCT,Dongou
-BELEMENE DZAMOND Hilaire,alternate,PCT,Dongou
-TONO Marie Louise,deputy,PCT,Epena 1
-MOULOUMBA Piorrot Jean Marc,alternate,PCT,Epena 1
-BONGOUAMBE MOLOBO Baccer,deputy,PCT,Epena 2
-MAKASSELA EWHAKOU Herdy,alternate,PCT,Epena 2
-KANGA Jean Bruno,deputy,PCT,Liranga
-DOLOBO BOKOCKOU Gabriel,alternate,PCT,Liranga
-BAMBI GOMA Gerald Lone,deputy,Indépendant,Makélékélé 1
-TSIAKOUAMA Christophe,alternate,Indépendant,Makélékélé 1
-BADIABIO Joseph,deputy,Indépendant,Makélékélé 2
-MALELA Bernard,alternate,Indépendant,Makélékélé 2
-BOUDZIKA Bonaventure,deputy,CDR,Makélékélé 3
-MATOKOT Aristide,alternate,CDR,Makélékélé 3
-MAMBOUO née SITA Olga Clarisse,deputy,Indépendant,Makélékélé 4
-LOUBANGASSOU Daniel,alternate,Indépendant,Makélékélé 4
-MATSIMA KIMBEMBE Préference,deputy,Indépendant,Bacongo 1
-BALOKI Gisèle,alternate,Indépendant,Bacongo 1
-KIBOZI Régis Joseph,deputy,Indépendant,Bacongo 2
-LOKO Etienne,alternate,Indépendant,Bacongo 2
-KOURISSA Jean De Dieu,deputy,PCT,Poto-poto 1
-BOBOT Pascal Edmond,alternate,PCT,Poto-poto 1
-OPIMBAT née MBOUNDZA MOKE EKOTIKAMBI Charlotte,deputy,PCT,Poto-poto 2
-NGOUMBA Gabriel,alternate,PCT,Poto-poto 2
-GASSACKYS Ferrol Constant Patrick,deputy,PCT,Poto-poto 3
-MPIKA MAMPASSI René,alternate,PCT,Poto-poto 3
-MOUAGNI Aimé Hydevert,deputy,CPR,Moungali 1
-KOUAZAU MAU Yvon Brice,alternate,CPR,Moungali 1
-INGANI INES NEFER Bertille,deputy,PCT,Moungali 2
-BAMBA Octave,alternate,PCT,Moungali 2
-MOUSSODIA Jean Didace Médard,deputy,PULP,Moungali 3
-MAYOYO Rémy Pierre,alternate,PULP,Moungali 3
-MONDELE Juste Désiré,deputy,CLUB 2002 PUR,Ouenzé 1
-AKOUALA GAMBOU Francis Rivelin,alternate,CLUB 2002 PUR,Ouenzé 1
-ONDZE Dominique,deputy,PCT,Ouenzé 2
-KIBOYI Omer,alternate,PCT,Ouenzé 2
-OYO EMBOUNOU Jules Junior Romy,deputy,PCT,Ouenzé 3
-OKEMBA PITY Nathalie Sylvie,alternate,PCT,Ouenzé 3
-GOUAMBA Ninon Pachel,deputy,Indépendant,Ouenzé 4
-MBATANI Gogel,alternate,Indépendant,Ouenzé 4
-NIANGA Blandine,deputy,PCT,Talangai 1
-MBONGO MVOULI OBAMBESSA Luther,alternate,PCT,Talangai 1
-IBOVI Jean Claude,deputy,MDP,Talangai 2
-GAMPFINA BAMPE Bory,alternate,MDP,Talangai 2
-OBAMBI Pierre,deputy,PCT,Talangai 3
-ETOUA Claver David,alternate,PCT,Talangai 3
-ELENGA Faustin,deputy,PCT,Talangai 4
-OFAMALEKOU Ghislain Urbain,alternate,PCT,Talangai 4
-LEMBOUMBA née IKIA SASSOU-NGUESSO Claudia,deputy,PCT,Talangai 5
-LENGA Isidore,alternate,PCT,Talangai 5
-SAMBA Sylvain,deputy,Indépendant,Mfilou 1
-NFOUTOU NKOUNGA Antoine,alternate,Indépendant,Mfilou 1
-BIDIE BIAMBEMBA Placide Helb,deputy,RC,Mfilou 2
-OYINDZA Emmanuel,alternate,RC,Mfilou 2
-MALONGA Nicolas Jean Jacques,deputy,Indépendant,Madibou
-BASSEGELA née BIANFOUANA Albertine,alternate,Indépendant,Madibou
-TIELE GAMBIA OLOU Antoinette,deputy,PCT,Djiri 1
-IKANI OBAMBI Maurice,alternate,PCT,Djiri 1
-NGAMBILI IBAM Bersol Exaucé,deputy,PCT,Djiri 2
-NOUMAZALALI Linda,alternate,PCT,Djiri 2
-NYANGA ELENGA André,deputy,PCT,Ile Mbamou
-OFOUNGA Joseph,alternate,PCT,Ile Mbamou
+itemLabel,partyLabel,areaLabel
+BOUTI-VIAUDO Roland,MAR,Loango
+MABIALA Alexandre,PCT,kakamoeka
+SOUNDA Jean Aimé,RDPS,Hinda
+TENGO Laurent,MAR,Madingo-Kayes
+BATCHI Gabriel,RDPS,Nzambi
+MATOMBE Paul,Indépendant,Mvouti 1
+COUSSOUD-MAVOUNGOU Martin Parfait Aimé,PCT,Mvouti 2
+N’DINGA Alexis,PCAP,Lumumba 1
+BISSOUTA MABONDA Alois Devic,PCT,Lumumba 2
+MAVOUNGOU Maurice,MAR,Lumumba 3
+THYSTERE TCHIKAYA Jean Marc,RDPS,Mvou - Mvou 1
+TCHIGNOUMBA MBOUMBA Gilbert Paul,PCT,Mvou - Mvou 2
+NKODIA KYND Gaétan,PCT,Tié - tié 1
+BAYENDISSA Brice Dimitri,PCT,Tié - tié 2
+KABA VELE née MPAN Suzanne,PCT,Loandjili 1
+MAMONA Ferdinand,PCT,Loandili 2
+FOLLO Isaac Raymond,PCT,Ngoyo
+KANDO Jean François,PCT,Mongo - Mpoukou
+MAKOSSO Christian Ernest,PCT,Tchiamba - Nzassi
+LISSOUBA Jeremih Sylvain,UPADS,Dolisie 1
+SAYI Honoré,UPADS,Dolisie 2
+KOUMBA Justin,PCT,Banda
+NKOUNKA MANANGA YOGO Marianne,PCT,Divenié
+ZAMBA Bienvenu Victor,UPADS,Kibangou
+MOUANDA Jean Jacques,PCT,Kimongo
+NGOULA Antoine,PCT,Londéla - Kayes
+MAVOUNGOU Jean Antoine,PCT,Louvakou
+MABIALA Pierre,PCT,Makabana
+LEYINDA Pascal Alain,UPADS,Mayoko
+MOUANDZA Pierre,DRD,Mbinda
+BIYOT Jean Bruno,DRD,Moungoundou - Nord
+LITENGO KONGO Simon,MAR,Moungoundou - Sud
+NDOUNA François,Indépendant,Mossendjo 1
+TSOUMOU Yves,Indépendant,Mossendjo 2
+LALISSINI BIKINDOU Justice,Indépendant,Moutamba
+DOUKAGA Destinée Hermella,FP,Nyanga
+MBANI Jean Valère,UMP,Yaya
+NDIKI MAMPAKA Christophe,Indépendant,Madingou commune
+NGABELET Auguste,Indépendant,Madingou district
+BATI Benoit,PCT,Tsiaki
+NKOUKA Jean,PCT,Kayes
+MBANZOULOU Eugene,PCT,Boko-Songho
+SYBALI Jean,PCT,Kingoué
+N’GOMA MBOUKOU Ulriche,PCT,Yamba
+BIDOUNGA Alphonse,UPADS,Nkayi 1
+DILOU NGOMA Samuel,Indépendant,Nkayi 2
+KALLA Marcel,PCT,Mabombo
+TSATY MABIALA Pascal,UPADS,Loudima
+NZOMONO Macaire,Indépendant,Mfouati
+MBOUSSI NGOUARI Michel,MNLC,Mouyondzi
+MOUAMBA Clément,PCT,Sibiti commune
+KIGNOUMBI KIA MBOUNGOU Joseph,LA CHAINE,Sibiti district
+TSOUMOU MOUKASSA Adrien,UPADS,Bambama
+TSIBA Jean Appolinaire,UPADS,Komono
+MOUHOUMOUNOU David Benoit,PCT,Mayéyé
+MBANI Marcel,PCT,Zanaga
+FYLLA SAINT-EUDES Nicéphore Antoine,PRL,Kinkala commune
+MENSAH née SASSOU NGUESSO,PCT,Kintélé commune
+EBINA José Cyr Adélard,PCT,Ignié
+MIHAMBOU Josué,CRDP,Loumo
+PAMBOU Germaine,Indépendant,Louingui
+ONDONGO Evariste,PCT,Ngabé
+KOULOUMBOU Marie Jeanne,PCT,Boko
+NGOUONIMBA Josué Rodrigue,UFD,Djambala commune
+NGOULOU Boniface,DRD,Djambala district
+IBOMBO Jean Pierre,PCT,Allembé
+MBOULOU Raymond Zéphirin,PCT,Mpouya
+NGOUELONDELE Hugues,PCT,Gamboma 1
+OBAM ONDON Antoine Bienaimé,PCT,Gamboma 2
+MBOSSA Joseph,PCT,Abala
+GALIBALI Ghyslain Millet,Indépendant,Lekana
+NGATSELE Alphonse,Indépendant,Mbon
+TSALISSAN OKOMBI Digne Elvis,UMP,Ngo
+ITOUA Bruno Jean Richard,PCT,Ollombo 1
+IBARA NDELI Felix,PCT,Ollombo 2
+ONDZE née NGAMBOLO Bernadette,PCT,Makotimpoko
+ONDELE jaurès,PCT,Ongogni
+SASSOU-NGUESSO Denis Christel,PCT,Oyo commune
+OMINGA Maixent Raoul,PCT,Oyo district
+NGOKANA Denis Auguste Marie,PCT,Boundji
+AMBETO Blaise,PCT,Ngoko
+AYESSA Firmin,PCT,Makoua
+IKEMOU Théodore,PCT,Ntokou
+BOUYA Jean Jacques,PCT,Tchikapika
+MOKEMO Zacharie,PCT,Loukolela
+MOBONDZO ENDZONGA Marien,PCT,Mossaka 1
+OTOKA Oscar,PCT,Mossaka 2
+BOKOUMAKA Gabriel,PCT,Bokoma
+OWASSA YAUCKA Abel Jo,PCT,Owando commune
+ONDONGO Gilbert,PCT,Owando district
+BININGA Aimé Ange Wilfrid,PCT,Ewo commune
+ALOUMBA Alexandre,PCT,Ewo district
+OTSALEYOUA Saturnin,PCT,Okoyo
+MOUELE Serge Hubert,PCT,Mbama
+OPIMBAT Léon Alfred,PCT,Mbomo
+NGANFOUOMO Charles,PCT,Etoumbi
+HOBIE Thierry,PCT,Kellé
+NDINGA MAKANDA Accel Arnaud,PCT,Ouesso 1
+MOTTOM MAMONI Léonidas Carrel,PCT,Ouesso 2
+MBOUMA Albert,PCT,Pokola
+CHISSO Adélaïde Rufine,PCT,Pikounda
+OKOUENI Michel,PCT,Kabo
+ZONIABA AYIMESSONE Henri,PCT,Souanké
+MINDA Pierre Christian,PCT,Mokéko
+NGOZOK MISSEKA Golfe,PCT,Ngbala
+NDOUANE DAMBERT René,PCT,Sembé
+MOKA Alain,PCT,Impfondo commune
+DOLAMA Virginie Euphrasie,PCT,Impfondo district
+SEKO Hyppolite,PCT,Bouanela
+SABAYE Fernand,PCT,Bétou
+DJOMBO Henri,PCT,Enyellé
+MANIA Venance,PCT,Dongou
+TONO Marie Louise,PCT,Epena 1
+BONGOUAMBE MOLOBO Baccer,PCT,Epena 2
+KANGA Jean Bruno,PCT,Liranga
+BAMBI GOMA Gerald Lone,Indépendant,Makélékélé 1
+BADIABIO Joseph,Indépendant,Makélékélé 2
+BOUDZIKA Bonaventure,CDR,Makélékélé 3
+MAMBOUO née SITA Olga Clarisse,Indépendant,Makélékélé 4
+MATSIMA KIMBEMBE Préference,Indépendant,Bacongo 1
+KIBOZI Régis Joseph,Indépendant,Bacongo 2
+KOURISSA Jean De Dieu,PCT,Poto-poto 1
+OPIMBAT née MBOUNDZA MOKE EKOTIKAMBI Charlotte,PCT,Poto-poto 2
+GASSACKYS Ferrol Constant Patrick,PCT,Poto-poto 3
+MOUAGNI Aimé Hydevert,CPR,Moungali 1
+INGANI INES NEFER Bertille,PCT,Moungali 2
+MOUSSODIA Jean Didace Médard,PULP,Moungali 3
+MONDELE Juste Désiré,CLUB 2002 PUR,Ouenzé 1
+ONDZE Dominique,PCT,Ouenzé 2
+OYO EMBOUNOU Jules Junior Romy,PCT,Ouenzé 3
+GOUAMBA Ninon Pachel,Indépendant,Ouenzé 4
+NIANGA Blandine,PCT,Talangai 1
+IBOVI Jean Claude,MDP,Talangai 2
+OBAMBI Pierre,PCT,Talangai 3
+ELENGA Faustin,PCT,Talangai 4
+LEMBOUMBA née IKIA SASSOU-NGUESSO Claudia,PCT,Talangai 5
+SAMBA Sylvain,Indépendant,Mfilou 1
+BIDIE BIAMBEMBA Placide Helb,RC,Mfilou 2
+MALONGA Nicolas Jean Jacques,Indépendant,Madibou
+TIELE GAMBIA OLOU Antoinette,PCT,Djiri 1
+NGAMBILI IBAM Bersol Exaucé,PCT,Djiri 2
+NYANGA ELENGA André,PCT,Ile Mbamou

@@ -6,14 +6,14 @@ module.exports = function () {
   let fromd = `"${meta.term.start}T00:00:00Z"^^xsd:dateTime`
   let until = meta.term.end  ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
-  return `SELECT DISTINCT ?item ?itemLabel ?party ?partyLabel ?area ?areaLabel
+  return `SELECT DISTINCT ?item ?itemLabel ?position ?party ?partyLabel ?area ?areaLabel
                  ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
+          VALUES ?position { wd:Q21295980 wd:Q112567889 }
           ?item wdt:P31 wd:Q5 ; p:P39 ?ps .
           ?ps ps:P39 ?position .
-          ?position wdt:P279* wd:${meta.position} .
           FILTER NOT EXISTS { ?ps wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?item p:P570 [ a wikibase:BestRank ; psv:P570 ?dod ] }
           OPTIONAL { ?ps pqv:P580 ?p39start }
@@ -82,7 +82,6 @@ module.exports = function () {
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
       BIND(COALESCE(?sourceName, ?labelName) AS ?itemLabel)
-
     }
     # ${new Date().toISOString()}
     ORDER BY ?start ?end ?item ?psid`

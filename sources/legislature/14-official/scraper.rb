@@ -40,29 +40,14 @@ class Legislature
     end
 
     def alternate_name
-      description[0].split(/:/).last.tidy
+      description[0].split(/:/)[1].to_s.tidy
     end
   end
 
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      noko.css('.content .avia-team-member').map { |mp| fragment(mp => Member) }.flat_map do |row|
-        [
-          {
-            name: row.name,
-            role: 'deputy',
-            constituency: row.constituency,
-            party: row.party,
-          },
-          {
-            name: row.alternate,
-            role: 'alternate',
-            constituency: row.constituency,
-            party: row.party,
-          }
-        ]
-      end
+      noko.css('.content .avia-team-member').map { |mp| fragment(mp => Member) }.map(&:to_h)
     end
   end
 end
