@@ -4,7 +4,7 @@ existing=$(qsv search -u -i $2 wikidata.csv | qsv count)
 
 if [[ $existing != 1 ]]
 then
-    echo "No unique match to wikidata.csv:"
+    echo "No unique match for $2 in wikidata.csv:"
     qsv search -u -i $2 wikidata.csv | qsv table
     return
 fi
@@ -12,8 +12,10 @@ fi
 oldqid=$(qsv search -u -i $2 wikidata.csv | qsv select item | qsv behead)
 oldpsid=$(qsv search -u -i $2 wikidata.csv | qsv select psid | qsv behead)
 position=$(qsv search -u -i $2 wikidata.csv | qsv select position | qsv behead)
+leaving=$(qsv search -u -i $2 wikidata.csv | qsv select itemLabel | qsv behead)
+positionLabel=$(qsv search -u -i $2 wikidata.csv | qsv select positionLabel | qsv behead)
 
-echo "wd aq $oldpsid P582 $1"
+echo "Terminating $leaving as $positionLabel on $1"
 wd aq $oldpsid P582 $1
 
 if [[ $3 =~ Q ]]
