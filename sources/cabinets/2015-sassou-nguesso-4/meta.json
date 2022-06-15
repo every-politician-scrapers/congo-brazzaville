@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Congo-Brazzaville",
+        "id": "Q971"
+    },
+    "cabinet": {
+        "id":     "Q28499963",
+        "start":  "2015-08-10",
+        "end":    "2016-04-30",
+        "parent": "Q3112600"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Sassou-Nguesso_(4)",
+    "lang": "en"
+}
