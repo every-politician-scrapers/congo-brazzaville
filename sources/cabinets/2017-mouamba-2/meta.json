@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Congo-Brazzaville",
+        "id": "Q971"
+    },
+    "cabinet": {
+        "id":     "Q38284416",
+        "start":  "2017-08-22",
+        "end":    "2021-05-04",
+        "parent": "Q3112600"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2)",
+    "lang": "en"
+}
