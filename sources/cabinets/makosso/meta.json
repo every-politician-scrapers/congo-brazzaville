@@ -1,0 +1,13 @@
+{
+    "jurisdiction": {
+        "name": "Congo-Brazzaville",
+        "id": "Q971"
+    },
+    "cabinet": {
+        "id":     "Q109037591",
+        "start":  "2021-05-15",
+        "parent": "Q3112600"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Anatole_Collinet_Makosso",
+    "lang": "en"
+}
