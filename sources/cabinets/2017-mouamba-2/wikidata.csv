@@ -1,37 +1,42 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
-Q15046890,Jean-Claude Gakosso,Q18204385,Minister of Foreign Affairs of the Republic of Congo,2015-08-10,,,,Q15046890-AFF1695D-CF00-4E72-A6FE-8938CD193B1C
-Q19819308,Thierry Moungalla,Q112320661,Minister of Communications,2015-08-11,,,,Q19819308-2F9EBD1C-A8E8-4EC2-A122-F27ED7DD25E9
-Q23928873,Clément Mouamba,Q30101451,Prime Minister of the Republic of the Congo,2016-04-23,2021-05-12,,,Q23928873-DA49C837-856E-4F19-9EAF-7E19F6A939AF
-Q24147892,Emile Ouosso,Q112320672,Minister of Equipment,2017-08-22,,,,Q24147892-F3C42062-B36B-41CB-81CE-B75895ED03A8
-Q24150698,Calixte Ganongo,Q112320673,Minister of Finance,2017-08-22,,,,Q24150698-DDF9B6F0-FECB-4CB0-9617-99A2A50EAD5B
-Q24175564,Jacqueline Lydia Mikolo,Q98966140,Health minister of the Republic of the Congo,2017-08-22,,,,Q24175564-07324758-51F6-4AA4-BEA8-54676BB31A39
-Q24176158,Rosalie Matondo,Q112320675,Minister of Forestry,2017-08-22,,,,Q24176158-DF1EA18F-74C6-4ACD-B78D-E5250B2776CC
-Q26237842,Ingrid Ebouka-Babackas,Q112320696,Minister of Planning,2017-08-22,,,,Q26237842-F70B0779-C7DD-4C98-8CE2-5DAC811DB9E9
-Q26254130,Arlette Soudan-Nonault,Q112320720,Minister of Tourism,2017-08-22,,,,Q26254130-28CC4716-9C8D-48A3-99D8-53EED00E6FE7
-Q26266432,Serge Blaise Zoniaba,Q112320671,Minister of Energy,2016-04-30,,,,Q26266432-5D909BE0-28F3-4DBE-BCA8-BC0205441449
-Q26689539,Jean-Marc Thystère-Tchicaya,Q112320678,Minister of Hydrocarbons,2015-08-11,,,,Q26689539-F6D3A606-1204-4577-AD0D-6CECE1AF5F47
-Q3142653,Hugues Ngouelondélé,Q112320713,Minister of Sports,2017-08-22,,,,Q3142653-F597FBAB-2DFA-406C-9D5D-761E0C4F0CB0
-Q3295579,Martin Parfait Aimé Coussoud-Mavoungou,Q112320703,Minister of Scientific Research,2017-08-22,2022-03-14,,,Q3295579-CD397191-1F03-466E-BBBF-C611B1B33CC3
-Q33026718,Gilbert Mokoki,Q112320711,Minister of Special Economic Zones,2017-08-22,,,,Q33026718-3D53D8B1-EAD7-407F-88AC-97283D9DF776
-Q3386464,Pierre Oba,Q112320693,Minister of Mines,2005-01-07,,,,Q3386464-078570BE-196F-4238-8436-3A7031E6632E
-Q40770924,Léon Juste Ibombo,Q112320698,Minister of Posts and Telecommunications,2016-04-30,,,,Q40770924-9CDD3709-0E85-4FDC-B605-13324A15867A
-Q4686987,Adélaïde Moundélé-Ngollo,Q112320707,Minister of Small and Medium Enterprises and Handicrafts,2007-12-30,,,,Q4686987-3A533C50-A061-49DF-93EC-50FEF1F129FE
-Q4752077,Anatole Collinet Makosso,Q112320669,Minister of Education,2015-08-11,,,,Q4752077-C4EF07FF-3919-49FC-BADF-2E17D236B90C
-Q48778190,Destinée Ermela Doukaga,Q112320657,Minister of Civic Education,2016-04-30,,,,Q48778190-B1BC49C8-8128-43D1-9A67-F9AC1CA781F7
-Q4979263,Bruno Itoua,Q112320677,Minister of Higher Education,2016-04-30,,,,Q4979263-562799E0-D5EC-4DB8-ADD2-182B12C3A030
-Q50379869,Aimé Ange Wilfrid Bininga,Q112320688,Minister of Justice,2017-08-22,,,,Q50379869-147FD2FF-EB15-4553-B6E2-CB0C3936D543
-Q5082018,Charles Richard Mondjo,Q112320695,Minister of National Defence,2012-09-25,,,,Q5082018-76A79DDA-D4BF-4136-852D-F0E70F849D8E
-Q5128679,Claude Alphonse Nsilou,Q112320660,Minister of Commerce,2017-08-22,,,,Q5128679-3BA3C8EF-5A6E-42F0-851F-EE2528EA86AC
-Q5446833,Fidèle Dimou,Q112320723,Minister of Transport,2017-08-22,,,,Q5446833-214ACAC5-8204-4C39-B84F-98B79F6F857F
-Q5452128,Firmin Ayessa,Q112320732,Vice-Prime Minister,2017-08-22,,,,Q5452128-9B8BB2E3-57B9-41AE-9942-6E92DADF8D63
-Q5460873,Florent Ntsiba,Q112320731,Minister without Portfolio,2017-08-22,,,,Q5460873-437FBBA9-553B-47C6-ACCD-B9BD30B50DD5
-Q5561139,Gilbert Ondongo,Q112320668,Minister of Economy,2017-08-22,,,,Q5561139-A0C247F6-2728-42A6-83F5-EC72F65BFFBA
-Q55807584,Josué Rodrigue Ngouonimba,Q112320662,Minister of Construction,2017-08-22,,,,Q55807584-20E6607E-05FE-42AD-A868-56C016EB5310
-Q5715430,Henri Djombo,Q112320656,Minister of Agriculture,2016-04-30,,,,Q5715430-DF33ABB6-8740-4EC6-BF4B-6B2F1BED7C04
+Q112581016,Ludovic Ngatsé,Q112581013,"Ministre délégué auprès du ministre des Finances et du Budget, chargé du Budget",2017-08-22,2021-05-04,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q112581016-FA3854D0-D45F-4357-AFD8-4B62AB147D77
+Q15046890,Jean-Claude Gakosso,Q18204385,"Ministre des Affaires étrangères, de la Coopération et des Congolais de l'étranger",2015-08-10,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q15046890-AFF1695D-CF00-4E72-A6FE-8938CD193B1C
+Q19819308,Thierry Moungalla,Q112320661,Ministre de la Communication et des MédiasPorte-parole du Gouvernement,2015-08-11,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q19819308-2F9EBD1C-A8E8-4EC2-A122-F27ED7DD25E9
+Q23928873,Clément Mouamba,Q30101451,Premier ministre,2016-04-23,2021-05-12,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q23928873-DA49C837-856E-4F19-9EAF-7E19F6A939AF
+Q24147892,Émile Ouosso,Q112320672,Ministre de l'Équipement et de l'Entretien routier,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q24147892-F3C42062-B36B-41CB-81CE-B75895ED03A8
+Q24150698,Calixte Ganongo,Q112320673,Ministre des Finances et du Budget,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q24150698-DDF9B6F0-FECB-4CB0-9617-99A2A50EAD5B
+Q24175564,Jacqueline Lydia Mikolo,Q98966140,Ministre de la Santé et de la PopulationMinistre de la Promotion de la femme et de l'Intégration de la femme au développement,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q24175564-07324758-51F6-4AA4-BEA8-54676BB31A39
+Q24175564,Jacqueline Lydia Mikolo,Q112320727,Minister of Women,2019-09-19,2021-05-04,,,Q24175564-C7A7D606-39B9-47DB-8A2B-9EF1DAA69017
+Q24176158,Rosalie Matondo,Q112320675,Ministre de l'Économie forestière,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q24176158-DF1EA18F-74C6-4ACD-B78D-E5250B2776CC
+Q26237842,Ingrid Ebouka-Babackas,Q112320723,"Ministre des Transports, de l'Aviation civile et de la Marine marchande",2020-03,2021-05-04,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q26237842-09BC7DCE-8A41-417C-BF61-2BE9629DBBB0
+Q26237842,Ingrid Ebouka-Babackas,Q112320696,"Ministre du Plan, de la Statistique et de l'Intégration régionale",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q26237842-F70B0779-C7DD-4C98-8CE2-5DAC811DB9E9
+Q26254130,Arlette Soudan-Nonault,Q112320720,Ministre du Tourisme et de l'Environnement,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q26254130-28CC4716-9C8D-48A3-99D8-53EED00E6FE7
+Q26266432,Serge Blaise Zoniaba,Q112320671,Ministre de l'Énergie et de l'Hydraulique,2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q26266432-5D909BE0-28F3-4DBE-BCA8-BC0205441449
+Q26689539,Jean-Marc Thystère-Tchicaya,Q112320678,Ministre des Hydrocarbures,2015-08-11,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q26689539-F6D3A606-1204-4577-AD0D-6CECE1AF5F47
+Q3142653,Hugues Ngouélondélé,Q112320713,Ministre des Sports et de l'Éducation physique,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q3142653-F597FBAB-2DFA-406C-9D5D-761E0C4F0CB0
+Q3295579,Martin Parfait Aimé Coussoud-Mavoungou,Q112320703,Ministre de la Recherche scientifique et de l'Innovation technologique,2017-08-22,2022-03-14,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q3295579-CD397191-1F03-466E-BBBF-C611B1B33CC3
+Q33026718,Gilbert Mokoki,Q112320711,Ministre des Zones économiques spéciales,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q33026718-3D53D8B1-EAD7-407F-88AC-97283D9DF776
+Q3386464,Pierre Oba,Q112320693,Ministre des Mines et de la Géologie,2005-01-07,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q3386464-078570BE-196F-4238-8436-3A7031E6632E
+Q40770924,Léon Juste Ibombo,Q112320698,"Ministre des Postes, des Télécommunications et de l'Économie numérique",2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q40770924-9CDD3709-0E85-4FDC-B605-13324A15867A
+Q4686987,Yvonne-Adélaïde Mougany,Q112320707,"Ministre des Petites et moyennes entreprises, de l'Artisanat et du Secteur informel",2007-12-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q4686987-3A533C50-A061-49DF-93EC-50FEF1F129FE
+Q4752077,Anatole Collinet Makosso,Q112320669,"Ministre de l'Enseignement primaire, secondaire et de l'Alphabétisation",2015-08-11,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q4752077-C4EF07FF-3919-49FC-BADF-2E17D236B90C
+Q48778190,Destinée Doukaga,Q112320657,Ministre de la Jeunesse et de l'Éducation civique,2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q48778190-B1BC49C8-8128-43D1-9A67-F9AC1CA781F7
+Q4979263,Bruno Itoua,Q112320677,Ministre de l'Enseignement supérieur,2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q4979263-562799E0-D5EC-4DB8-ADD2-182B12C3A030
+Q50379869,Ange Aimé Bininga,Q112320688,"Ministre de la Justice, des Droits humains et de la Promotion des peuples autochtones",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q50379869-147FD2FF-EB15-4553-B6E2-CB0C3936D543
+Q5082018,Charles Richard Mondjo,Q112320695,Ministre de la Défense nationale,2012-09-25,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q5082018-76A79DDA-D4BF-4136-852D-F0E70F849D8E
+Q5128679,Claude Alphonse Nsilou,Q112320660,"Ministre du Commerce, des Approvisionnements et de la Consommation",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q5128679-3BA3C8EF-5A6E-42F0-851F-EE2528EA86AC
+Q5446833,Fidèle Dimou,Q112320723,Minister of Transport,2017-08-22,2020-03,,,Q5446833-214ACAC5-8204-4C39-B84F-98B79F6F857F
+Q5452128,Firmin Ayessa,Q112320732,"Vice-Premier ministre, chargé de la fonction publique, de la réforme de l’Etat, du travail et de la sécurité sociale",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q5452128-9B8BB2E3-57B9-41AE-9942-6E92DADF8D63
+Q5460873,Florent Ntsiba,Q112320731,Directeur du cabinet du chef de l'État,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q5460873-437FBBA9-553B-47C6-ACCD-B9BD30B50DD5
+Q5561139,Gilbert Ondongo,Q112320668,"Ministre de l'Économie, de l'Industrie et du Portefeuille public",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q5561139-A0C247F6-2728-42A6-83F5-EC72F65BFFBA
+Q55807584,Josué Rodrigue Ngouonimba,Q112320662,"Ministre de la Construction, de l'Urbanisme et de l'Habitat",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q55807584-20E6607E-05FE-42AD-A868-56C016EB5310
+Q57069711,Charles Nganfouomo,Q112581010,Ministre délégué auprès du Ministre de l'Intérieur et de la Décentralisation et du Développement local,2017-08-22,2021-05-04,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q57069711-9C2D3DB9-1D18-4648-8A96-D3DD68218205
+Q5715430,Henri Djombo,Q112320656,"Ministre de l'Agriculture, de l'Élevage et de la Pêche",2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q5715430-DF33ABB6-8740-4EC6-BF4B-6B2F1BED7C04
 Q57418,Denis Sassou-Nguesso,Q10353660,President of the Republic of the Congo,1997-10-25,,,,Q57418-72740888-9C7D-4811-B6A6-DCD7827507B5
-Q57464277,Nicéphore Fylla de Saint-Eudes,Q112320669,Minister of Education,2016-04-30,,,,Q57464277-B3CADC4D-23D1-4A44-AEE6-AD703FE1B0DC
-Q59676765,Dieudonné Moyongo,Q112315782,Minister of Culture and Arts,2017-08-22,,,,Q59676765-7D9704F5-63DF-40F9-AA3C-E110538C53C9
-Q61415246,Antoinette Dinga-Dzondo,Q112320708,Minister of Social Affairs,2016-04-30,,,,Q61415246-185F4A2D-AE10-487F-819F-A275131FA60B
-Q6169352,Jean-Jacques Bouya,Q112320702,Minister of Regional Planning,2012-09-25,,,,Q6169352-554AEABB-EA91-4A4E-8991-9E7BA93B9AA9
-Q7192339,Pierre Mabiala,Q112320690,Minister of Land,2017-08-22,,,,Q7192339-008C1F91-724F-4CDE-A4BB-CC1C46CB254D
-Q7299001,Raymond Mboulou,Q112320686,Minister of Interior,2017-08-22,,,,Q7299001-D5376067-EAE1-4178-AEBB-6D9DE1A19198
+Q57464277,Antoine Nicéphore Thomas Fylla Saint-Eudes,Q112320669,"Ministre de l'Enseignement technique et professionnel, de la Formation qualifiante et de l'Emploi",2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q57464277-B3CADC4D-23D1-4A44-AEE6-AD703FE1B0DC
+Q59676765,Dieudonné Moyongo,Q112315782,Ministre de la Culture et des Arts,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q59676765-7D9704F5-63DF-40F9-AA3C-E110538C53C9
+Q61415246,Antoinette Dinga-Dzondo,Q112320708,Ministre des Affaires sociale et de l'Action humanitaire,2016-04-30,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q61415246-185F4A2D-AE10-487F-819F-A275131FA60B
+Q61600532,Inès Nefer Ingani,Q112320727,Minister of Women,2016-04-30,2019-09,,,Q61600532-2B2FED27-9B59-4DBF-8571-E8473C792893
+Q6169352,Jean-Jacques Bouya,Q112320702,"Ministre de l'Aménagement, de l'Équipement du territoire et des Grands travaux",2012-09-25,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q6169352-554AEABB-EA91-4A4E-8991-9E7BA93B9AA9
+Q7192339,Pierre Mabiala,Q112320690,"Ministre des Affaires foncières et du Domaine public, chargé des relations avec le Parlement",2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q7192339-008C1F91-724F-4CDE-A4BB-CC1C46CB254D
+Q7299001,Raymond Zéphirin Mboulou,Q112320686,Ministre de l'Intérieur et de la Décentralisation,2017-08-22,,https://fr.wikipedia.org/wiki/Gouvernement_Cl%C3%A9ment_Mouamba_(2),2022-06-15,Q7299001-D5376067-EAE1-4178-AEBB-6D9DE1A19198
