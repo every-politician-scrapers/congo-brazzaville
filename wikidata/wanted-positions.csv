@@ -15,6 +15,7 @@ Q112320665,Minister of Defence
 Q112320668,Minister of Economy
 Q112320669,Minister of Education
 Q112320671,Minister of Energy
+Q112581407,Minister of the Environment
 Q112320672,Minister of Equipment
 Q112320673,Minister of Finance
 Q112320674,Minister of Fishing
@@ -26,6 +27,7 @@ Q112320678,Minister of Hydrocarbons
 Q112320681,Minister of Industrial Development
 Q112320684,Minister of Industry
 Q112320686,Minister of Interior
+Q112581524,Minister of International Cooperation
 Q112320688,Minister of Justice
 Q112320689,Minister of Labour
 Q112320690,Minister of Land
@@ -47,13 +49,18 @@ Q112320714,Minister of State Control
 Q112320715,Minister of Sustainable Development
 Q112320718,Minister of Territorial Administration
 Q112320719,Minister of Territory Administration
+Q112581548,Minister of Territorial Development
 Q112320720,Minister of Tourism
 Q112320722,Minister of Trade
 Q112320723,Minister of Transport
+Q112581688,Minister of Vocational Training and Employment
 Q112320727,Minister of Women
 Q112320728,Minister of Youth and Sports
 Q112320655,Minister at the Presidency
 Q112320731,Minister without Portfolio
-Q112320653,Minister Delegate in the Ministry of Construction
-Q112320654,Minister Delegate in the Ministry of Foreign Affairs
+Q112581673,Minister Delegate to the Prime Minister
+Q112320653,Minister Delegate to the Minister of Construction
+Q112581013,Minister Delegate to the Minister of Finance
+Q112320654,Minister Delegate to the Minister of Foreign Affairs
+Q112581010,Minister Delegate to the Minister of the Interior
 Q112320644,Government Secretary General
