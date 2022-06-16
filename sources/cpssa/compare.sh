@@ -12,8 +12,8 @@ qsv join --left position cpssa.csv raw reconciled-positions.csv |
   qsv rename item,itemLabel,position,positionLabel,startDate,endDate |
   sed -e 's/2019-12-31//' > scraped.csv
 
-wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid | qsv sort -s itemLabel,startDate > wikidata.csv
+# wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid | qsv sort -s itemLabel,startDate > wikidata.csv
 
-bundle exec ruby diff.rb | qsv sort -s itemlabel,positionlabel | tee diff.csv
+# bundle exec ruby diff.rb | qsv sort -s itemlabel,positionlabel | tee diff.csv
 
 cd ~-
