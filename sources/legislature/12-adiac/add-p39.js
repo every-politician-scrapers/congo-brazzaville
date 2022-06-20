@@ -4,10 +4,11 @@ let meta = JSON.parse(rawmeta);
 
 module.exports = (id, label, party, startdate, enddate) => {
   qualifier = { }
-  if(meta.term) qualifier['P2937'] = meta.term.id
-  if(party)     qualifier['P4100'] = party
-  if(startdate) qualifier['P580']  = startdate
-  if(enddate)   qualifier['P582']  = enddate
+  if(meta.term.id)       qualifier['P2937'] = meta.term.id
+  if(meta.term.election) qualifier['P2715'] = meta.term.election
+  if(party)              qualifier['P4100'] = party
+  if(startdate)          qualifier['P580']  = startdate
+  if(enddate)            qualifier['P582']  = enddate
 
   reference = {
     ...meta.reference,
