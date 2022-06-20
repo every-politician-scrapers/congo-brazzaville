@@ -1,0 +1,18 @@
+{
+    "position": "Q21295980",
+    "term": {
+        "id":     "Q112654402",
+        "start":  "2007-08-05",
+        "end":    "2012-09-05"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://www.brazzaville-adiac.com/index.php?action=depeche&dep_id=17753&oldaction=textes&regpay_id=0&cat_id=&ss_cat_id=&LISTE_FROM=0&select_month=08&select_year=2007",
+        "P1065": "https://web.archive.org/web/20110708092216/https://www.brazzaville-adiac.com/index.php?action=depeche&dep_id=17753&oldaction=textes&regpay_id=0&cat_id=&ss_cat_id=&LISTE_FROM=0&select_month=08&select_year=2007",
+        "P2960": "2011-07-08",
+        "P1476": {
+            "text": "La liste complète des députés",
+            "language": "fr"
+        }
+    }
+}
