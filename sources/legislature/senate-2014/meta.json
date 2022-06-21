@@ -1,0 +1,17 @@
+{
+    "position": "Q21295131",
+    "term": {
+        "id":       "",
+        "start":    "2014-10-12",
+        "end":      "2017-08-31",
+        "election": "Q112660058"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://www.adiac-congo.com/content/elections-senatoriales-les-resultats-21666",
+        "P1476": {
+            "text": "Élections sénatoriales : les résultats",
+            "language": "fr"
+        }
+    }
+}
