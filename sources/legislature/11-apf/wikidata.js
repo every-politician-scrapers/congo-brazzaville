@@ -77,7 +77,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
-        ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), 'brazzaville-adiac.com') .
+        ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), '${meta.reference.P854}') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
