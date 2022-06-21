@@ -1,0 +1,18 @@
+{
+    "position": "Q21295131",
+    "term": {
+        "id":       "Q112659683",
+        "start":    "2002-07-11",
+        "end":      "2008-08-05",
+        "election": "Q112659675"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://apf.francophonie.org/IMG/pdf/actes_seminaire_brazzaville2004.pdf",
+        "P577": "2004-03-08",
+        "P1476": {
+            "text": "Séminaire parlementaire : Liste des parlementaires",
+            "language": "fr"
+        }
+    }
+}
