@@ -1,0 +1,20 @@
+{
+    "position": "Q21295980",
+    "term": {
+        "id":       "Q112660191",
+        "start":    "2002-06-20",
+        "end":      "2007-07-05",
+        "election": "Q7314550"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "http://www.brazzaville-adiac.com/index.php?action=depeche&dep_id=936&oldaction=liste&regpay_id=0&them_id=0&cat_id=1&ss_cat_id=0&LISTE_FROM=60&select_month=06&select_year=2002",
+        "P577": "2002-06-05",
+        "P1065": "https://web.archive.org/web/20120209085235/http://www.brazzaville-adiac.com/index.php?action=depeche&dep_id=936&oldaction=liste&regpay_id=0&them_id=0&cat_id=1&ss_cat_id=0&LISTE_FROM=60&select_month=06&select_year=2002",
+        "P2960": "2012-02-09",
+        "P1476": {
+            "text": "Elections législatives : les 51 élus du premier tour",
+            "language": "fr"
+        }
+    }
+}
