@@ -1,3 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-13,Q112566896,13th National Assembly of the Republic of Congo,2012-09-05,11,,,2017-07-15,11,,,,,Q112566680,14th National Assembly of the Republic of Congo,,,,
+12,Q112654402,12th National Assembly of the Republic of Congo,2007-08-05,11,,,2012-09-05,11,,,,,Q112566896,13th National Assembly of the Republic of Congo,,,,
+13,Q112566896,13th National Assembly of the Republic of Congo,2012-09-05,11,,,2017-07-15,11,,,Q112654402,12th National Assembly of the Republic of Congo,Q112566680,14th National Assembly of the Republic of Congo,,,,
 14,Q112566680,14th National Assembly of the Republic of Congo,2017-08-19,11,,,,,,,Q112566896,13th National Assembly of the Republic of Congo,,,,,,
