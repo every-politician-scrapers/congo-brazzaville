@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "She is the leader of the Patriotic Front party, and has served as minister of youth and civic education since April 2016.",
+              "text": "She is the leader of the Patriotic Front party and has served as minister of youth and civic education from 2016 to 2021, then minister of tourism since 2021.",
               "links": [
                 {
                   "text": "Patriotic Front",
@@ -274,6 +274,9 @@
             },
             {
               "text": "When she was chosen for the post at age 33, she became the youngest member of the country's cabinet at the time."
+            },
+            {
+              "text": "After Sassou Nguesso's reelection, in May 2021, she was shifted to the role of minister of tourism and leisure."
             }
           ]
         },
@@ -347,6 +350,18 @@
           "archive-url": "https://web.archive.org/web/20160506071707/http://adiac-congo.com:80/content/portrait-de-la-ministre-destinee-ermela-doukaga-50200",
           "archive-date": "2016-05-06",
           "access-date": "2021-02-11",
+          "website": "Agence d'Information d'Afrique Centrale",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Okokana",
+          "first": "Bruno",
+          "date": "2021-05-24",
+          "title": "Tourisme et loisirs : Destinée Hermella Doukaga invite le personnel à la vertu du travail",
+          "url": "https://www.adiac-congo.com/content/tourisme-et-loisirs-destinee-hermella-doukaga-invite-le-personnel-la-vertu-du-travail-127189",
+          "access-date": "2022-07-20",
           "website": "Agence d'Information d'Afrique Centrale",
           "language": "fr",
           "template": "citation",
